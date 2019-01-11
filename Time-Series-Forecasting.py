@@ -1,4 +1,4 @@
-# grid search ets models for ADP Data
+# grid search ets models for time-series data
 import os
 from math import sqrt
 from multiprocessing import cpu_count
